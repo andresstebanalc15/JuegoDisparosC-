@@ -1,0 +1,32 @@
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.exe.config
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.exe
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.pdb
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csprojResolveAssemblyReference.cache
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.Form1.resources
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.Properties.Resources.resources
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.GenerateResource.Cache
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.exe
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.pdb
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\Interop.WMPLib.dll
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\AxInterop.WMPLib.dll
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\Interop.WMPLib.dll
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\AxInterop.WMPLib.dll
+c:\users\al-c\documents\visual studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.ResolveComReference.cache
+C:\Users\Al-C\Documents\Visual Studio 2012\Projects\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.fondo.resources
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.exe.config
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.exe
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\JuegoFeriaADSI.pdb
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\Interop.WMPLib.dll
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\bin\Debug\AxInterop.WMPLib.dll
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.AssemblyReference.cache
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.SuggestedBindingRedirects.cache
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\Interop.WMPLib.dll
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\AxInterop.WMPLib.dll
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.ResolveComReference.cache
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.Form1.resources
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.fondo.resources
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.Properties.Resources.resources
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.GenerateResource.cache
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.csproj.CoreCompileInputs.cache
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.exe
+D:\Sena\SENA\JuegoFeriaADSI\JuegoFeriaADSI\obj\Debug\JuegoFeriaADSI.pdb
